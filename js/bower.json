@@ -4,6 +4,7 @@
   "authors": [
     "YNFYNYTY <www.rog_drummer@hotmail.com>"
   ],
+  "directory": "js/vendors",
   "license": "MIT",
   "ignore": [
     "**/.*",
